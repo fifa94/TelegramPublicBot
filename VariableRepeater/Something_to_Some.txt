@@ -1,0 +1,14 @@
+VAR
+	Something : BOOL
+	Something1 : BOOL
+	Something2 : BOOL
+	Something3 : BOOL
+	Something4 : BOOL
+	Something5 : BOOL
+	Some : USINT
+	Some1 : USINT
+	Some2 : USINT
+	Some3 : USINT
+	Some4 : USINT
+	Some5 : USINT
+END_VAR
